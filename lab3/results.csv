@@ -1,0 +1,7 @@
+﻿task,model,variant,best_val_loss,best_step,accuracy,f1,inference_time_s,parameters,time_per_text_ms
+Завдання 3,minigpt_v1,"2 шари, 5000 ітерацій",5.0192,5000.0,,,,,
+Завдання 3,minigpt_v2,"4 шари, 5000 ітерацій",4.8702,5000.0,,,,,
+Завдання 3,minigpt_v3,"4 шари, 15000 ітерацій",4.3485,15000.0,,,,,
+Завдання 3,minigpt_v4,"4 шари, 20000 ітерацій",4.2366,19500.0,,,,,
+Завдання 5,lxyuan/distilbert-base-multilingual-cased-sentiments-student,,,,0.5,0.2857142857142857,1.5508737159998418,135326979.0,77.54368579999209
+Завдання 5,cardiffnlp/twitter-xlm-roberta-base-sentiment,,,,0.9,0.9,5.045637299000191,278045955.0,252.28186495000955
