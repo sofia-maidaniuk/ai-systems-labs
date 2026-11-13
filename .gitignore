@@ -1,3 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+*.iml
+
 # macOS
 .DS_Store
-**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Lab 4 demo materials
+lab4/05-local-models-demo/
